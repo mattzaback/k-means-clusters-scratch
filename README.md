@@ -26,3 +26,8 @@ zone, it ends up converging at a local best solution instead of a global minimum
 To avoid this behavior, we run the algorithm with random seeds multiple times while keeping
 the seed that minimizes our overall sum of squared errors.
 
+
+
+The graph exploring the error with different numbers of clusters. 4 is the correct cluster count.
+
+![](SSEvK.png)
